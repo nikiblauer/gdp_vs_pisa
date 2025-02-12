@@ -1,5 +1,7 @@
 # Exploratory Data Analysis
 
+![header](header.png)
+
 ## Overview
 This project performs an exploratory data analysis (EDA) on a dataset related to GDP and PISA scores. It includes data cleaning, visualization, and modeling using regression and clustering techniques.
 
