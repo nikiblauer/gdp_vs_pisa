@@ -48,6 +48,3 @@ This analysis provides:
 - **Time-series analysis:** Observing trends in GDP and education over the years to predict future performance and economic growth potential.
 - **Visualizations:** The generated plots and figures are saved in the `vis/` folder for further reference and analysis.
 
-## License
-This project is for educational and research purposes.
-
